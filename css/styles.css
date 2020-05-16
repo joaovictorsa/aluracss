@@ -93,10 +93,9 @@ body {
 .about p {
   color: #cfcfcf;
   font-family: 'Ubuntu Mono', monospace;
-  font-size: 0.75em;
-  padding: 1em;
+  font-size: 0.5em;
+  padding: 0,5em;
   text-align: justify;
-  text-indent: 1em;
 }
 .about ul {
   color: #cfcfcf;
